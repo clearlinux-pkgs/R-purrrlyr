@@ -5,7 +5,7 @@
 #
 Name     : R-purrrlyr
 Version  : 0.0.8
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/purrrlyr_0.0.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/purrrlyr_0.0.8.tar.gz
 Summary  : Tools at the Intersection of 'purrr' and 'dplyr'
